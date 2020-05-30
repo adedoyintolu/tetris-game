@@ -34,3 +34,13 @@
     padding: 10px;
     border-radius: 30px;
 }
+
+span{
+    transition: all 0.4s ease;
+}
+span.fade{
+    color:rgb(87, 64, 233);
+}
+.desc{
+    color:#fff;
+}
